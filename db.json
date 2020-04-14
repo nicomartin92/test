@@ -1,0 +1,34 @@
+{
+  "prev": [
+    {
+      "firstLine": "France Bleu 100% Solidaire 0",
+      "firstLinePath": "emissions/les-p-tits-bonheurs",
+      "secondLine": "France Bleu 100% Solidaire",
+      "secondLinePath": "emissions/les-p-tits-bonheurs",
+      "cover": "a0773022-c452-4206-9b16-76fe7147fec9",
+      "startTime": 1586865600,
+      "endTime": 1586869200
+    }
+  ],
+  "now": {
+    "firstLine": "France Bleu 100% Solidaire 1",
+    "firstLinePath": "emissions/les-cles-des-p-tits-bonheurs",
+    "secondLine": "France Bleu 100% Solidaire",
+    "secondLinePath": "emissions/les-cles-des-p-tits-bonheurs",
+    "cover": "a0773022-c452-4206-9b16-76fe7147fec9",
+    "startTime": 1586869200,
+    "endTime": 1586872800
+  },
+  "next": [
+    {
+      "firstLine": "France Bleu 100% solidaire 2",
+      "firstLinePath": "emissions/france-bleu-paris-soir-info-trafic-mobilite-en-temps-reel/107-1",
+      "secondLine": "France Bleu 100% solidaire",
+      "secondLinePath": "emissions/france-bleu-paris-soir-info-trafic-mobilite-en-temps-reel/107-1",
+      "cover": "a0773022-c452-4206-9b16-76fe7147fec9",
+      "startTime": 1586872800,
+      "endTime": 1586884020
+    }
+  ],
+  "delayToRefresh": 10000
+}
